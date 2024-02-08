@@ -17,6 +17,13 @@ I'm passionate about designing, building, and programming microcontroller-based 
 
 ## Featured Projects
 
+### Advanced Wireless Keyboard
+[![Advanced Wireless Keyboard](https://github-readme-stats.vercel.app/api/pin/?username=dinhminh0307&repo=Bluetooth-Keyboard)](https://github.com/dinhminh0307/Bluetooth-Keyboard)
+- Developed interfacing from ESP32 to the PC
+- Configured the OLED 0.96 and BLE communication
+- Handled calculation logic, print the button the the PC
+- Wired, soldered PCB design
+
 ### Advanced Quadcopter with PID
 [![Advanced Quadcopter with PID](https://github-readme-stats.vercel.app/api/pin/?username=dinhminh0307&repo=Quadcopter-With-PID)](https://github.com/dinhminh0307/Quadcopter-With-PID)
 - Developed a controller to pilot the drone via ESP-Now.
