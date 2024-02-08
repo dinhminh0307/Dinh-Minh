@@ -1,5 +1,5 @@
 ## About Me
-
+- ⚡ My name: **Dinh Minh**
 - 🌱 I’m currently learning **Software Engineer**
 - 👯 I’m looking to collaborate on **Embedded Sysyem Job**
 - 📫 How to reach me: **dinhminh181003@gmail.com**
@@ -15,7 +15,7 @@
 ## Past Projects
 
 ### Advanced Quadcopter with PID
-[Advanced Quadcopter with PID](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhminh0307&repoQuadcopterWithPID&layout=compact)]([Project URL](https://github.com/dinhminh0307/Quadcopter-With-PID))
+[Advanced Quadcopter with PID](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhminh0307&repoQuadcopter-With-PID&layout=compact)]([Project URL](https://github.com/dinhminh0307/Quadcopter-With-PID))
 - Developed controller to drive the drone via ESP-Now,
 - Con{gured MPU6050 and design PCB,
 - Established Cascading PID research and development
@@ -23,7 +23,7 @@
 - Developed emergency stop button, joystick feature for drone
 
 ### Arduino Cyclone Game
-[Arduino Cyclone Game](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&repo=ArduinoCycloneGame&layout=compact)]([Project URL](https://github.com/dinhminh0307/Adruino-Cyclone-Game)) 
+[Arduino Cyclone Game](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhminh0307&repo=Arduino-Cyclone-Game&layout=compact)]([Project URL](https://github.com/dinhminh0307/Adruino-Cyclone-Game)) 
 - Embedded Software developer for game logic
 
 
