@@ -33,14 +33,14 @@ I'm passionate about designing, building, and programming microcontroller-based 
 - Implemented emergency stop and joystick control features.
 
 ### Arduino Cyclone Game
-[![Arduino Cyclone Game](https://github-readme-stats.vercel.app/api/pin/?username=dinhminh0307&repo=Arduino-Cyclone-Game)]([https://github.com/dinhminh0307/Arduino-Cyclone-Game])
+[![Arduino Cyclone Game](https://github-readme-stats.vercel.app/api/pin/?username=dinhminh0307&repo=Arduino-Cyclone-Game)](https://github.com/dinhminh0307/Arduino-Cyclone-Game)
 - Developed embedded software for game logic.
 - Managed hardware assembly including wiring, soldering, and component integration.
 
 ## Skills and Interests
 - **Programming Languages**: C, C++, Python
-- **Microcontrollers**: ESP32, Arduino, STM32
-- **Tools & Technologies**: PCB Design (Eagle/KiCad), FreeRTOS, Embedded Linux
+- **Microcontrollers**: ESP32, Arduino, ARM Cortex M0
+- **Tools & Technologies**: PCB Design (easyEDA), FreeRTOS, Embedded Linux, Embedded C
 - **Interests**: IoT, Robotics, UAVs, Automation
 
 ## Connect with Me
