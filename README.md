@@ -1,33 +1,41 @@
 ## About Me
 - ⚡ My name: **Dinh Minh**
-- 🌱 I’m currently learning **Software Engineer**
-- 👯 I’m looking to collaborate on **Embedded Sysyem Job**
+- 🌱 I’m currently learning **Software Engineering** with a focus on **Embedded Systems**
+- 👯 I’m looking to collaborate on **Embedded System Projects** and contribute to **Open Source**
 - 📫 How to reach me: **dinhminh181003@gmail.com**
 - 😄 Pronouns: **He/Him**
+
+I'm passionate about designing, building, and programming microcontroller-based systems. My expertise includes working with various microcontrollers, designing PCBs, and developing firmware.
+
 ## My GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhminh0307&show_icons=true&theme=radical)
+![Dinh Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhminh0307&show_icons=true&theme=radical)
 
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhminh0307&layout=compact&theme=radical)
 
-## Past Projects
+## Featured Projects
 
 ### Advanced Quadcopter with PID
-[Advanced Quadcopter with PID](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhminh0307&repoQuadcopter-With-PID&layout=compact)]([Project URL](https://github.com/dinhminh0307/Quadcopter-With-PID))
-- Developed controller to drive the drone via ESP-Now,
-- Con{gured MPU6050 and design PCB,
-- Established Cascading PID research and development
-- Tunned Cascading PID for the quadcopter
-- Developed emergency stop button, joystick feature for drone
+[![Advanced Quadcopter with PID](https://github-readme-stats.vercel.app/api/pin/?username=dinhminh0307&repo=Quadcopter-With-PID)](https://github.com/dinhminh0307/Quadcopter-With-PID)
+- Developed a controller to pilot the drone via ESP-Now.
+- Configured MPU6050 for flight stability and designed the PCB.
+- Executed research on Cascading PID and implemented it for flight control.
+- Fine-tuned PID parameters for optimal quadcopter performance.
+- Implemented emergency stop and joystick control features.
 
 ### Arduino Cyclone Game
-[Arduino Cyclone Game](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhminh0307&repo=Arduino-Cyclone-Game&layout=compact)]([Project URL](https://github.com/dinhminh0307/Adruino-Cyclone-Game)) 
-- Embedded Software developer for game logic
+[![Arduino Cyclone Game](https://github-readme-stats.vercel.app/api/pin/?username=dinhminh0307&repo=Arduino-Cyclone-Game)](https://github.com/dinhminh0307/Arduino-Cyclone-Game)
+- Developed embedded software for game logic.
+- Managed hardware assembly including wiring, soldering, and component integration.
 
+## Skills and Interests
+- **Programming Languages**: C, C++, Python
+- **Microcontrollers**: ESP32, Arduino, STM32
+- **Tools & Technologies**: PCB Design (Eagle/KiCad), FreeRTOS, Embedded Linux
+- **Interests**: IoT, Robotics, UAVs, Automation
 
 ## Connect with Me
-
-[<img align="left" alt="FaceBook" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384005.png" />][https://www.facebook.com/profile.php?id=100028172268761]
-[<img align="left" alt="LinkedIn" width="22px" src="[URL to Icon](https://cdn-icons-png.flaticon.com/128/3536/3536569.png)" />][[LinkedIn](https://www.linkedin.com/in/minh-dinh-72b3b522b/)]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-DinhMinh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dinhminh0307)
+- [![GitHub](https://img.shields.io/badge/GitHub-dinhminh0307-black?style=flat-square&logo=github)](https://github.com/dinhminh0307)
