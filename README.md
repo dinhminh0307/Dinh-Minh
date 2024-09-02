@@ -1,11 +1,11 @@
 ## About Me
 - ⚡ My name: **Dinh Minh**
-- 🌱 I’m currently learning **Software Engineering** with a focus on **Embedded Systems**
-- 👯 I’m looking to collaborate on **Embedded System Projects** and contribute to **Open Source**
+- 🌱 I’m currently learning **Software Engineering** with a focus on **IOT Development**
+- 👯 I’m looking to collaborate on **IoT Projects** and contribute to **Open Source**
 - 📫 How to reach me: **dinhminh181003@gmail.com**
 - 😄 Pronouns: **He/Him**
 
-I'm passionate about designing, building, and programming microcontroller-based systems. My expertise includes working with various microcontrollers, designing PCBs, and developing firmware.
+I'm passionate about designing, building, and programming IoT systems. My expertise includes working with various microcontrollers, Developing Web-Application, and developing firmware.
 
 ## My GitHub Stats
 
