@@ -11,7 +11,6 @@ I'm passionate about designing, building, and programming IoT systems. My expert
 
 ![Dinh Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhminh0307&show_icons=true&theme=radical&count_private=true)
 
-![Dinh Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhminh0307&show_icons=true&theme=radical&cache_seconds=1800)
 
 
 
