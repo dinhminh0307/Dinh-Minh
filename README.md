@@ -9,7 +9,8 @@ I'm passionate about designing, building, and programming IoT systems. My expert
 
 ## My GitHub Stats
 
-![Dinh Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhminh0307&show_icons=true&theme=radical)
+![Dinh Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhminh0307&show_icons=true&theme=radical&cache_seconds=1800)
+
 
 ## Top Languages
 
